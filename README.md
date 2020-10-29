@@ -1,0 +1,13 @@
+# qssi-user RKQ1.200928.002
+- manufacturer: 
+- platform: trinket
+- codename: ginkgo
+- flavor: qssi-user
+- release: 11
+- id: RKQ1.200928.002
+- incremental: eng.adithy.20201026.195236
+- tags: release-keys
+- fingerprint: google/coral/coral:11/RP1A.201005.004/6782484:user/release-keys
+- brand: Xiaomi
+- branch: qssi-user-RKQ1.200928.002
+- repo: xiaomi_ginkgo_dump

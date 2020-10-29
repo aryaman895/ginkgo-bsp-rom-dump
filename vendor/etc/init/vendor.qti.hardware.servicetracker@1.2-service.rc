@@ -1,0 +1,5 @@
+service vendor.servicetracker-1-2 /vendor/bin/hw/vendor.qti.hardware.servicetracker@1.2-service
+    class hal
+    user system
+    group system
+    task_profiles ServiceCapacityLow
